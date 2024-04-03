@@ -1,4 +1,7 @@
 # **Lab 01 - Handwritten Digit Recognition**
+## **Thành Viên**
+- Đỗ Minh Khôi - 21521007
+- Trương Hồ Phước Thịnh - 21522629
 ## **Dataset**
 - MNIST (Modified National Institute of Standards and Technology database)
 ## **Test Set**
